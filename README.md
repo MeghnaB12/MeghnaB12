@@ -1,9 +1,6 @@
 ## Hi there 👋
-*About Me:*  
-🎓 Data Science (IIT Madras) & Physics graduate (IISER Thiruvananthapuram)
 
-🎯 Turning Data into Impact
-
+I'm a BS-MS physics graduate with a passion for data science, machine learning, and web development.
 
 ## 🛠️ Technical Skills  
 
