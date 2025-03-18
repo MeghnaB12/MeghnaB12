@@ -14,6 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meghnabiswal)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/MeghnaBiswal)  
 
+📬 Let's Connect!
+📧 Email: meghna.biswal01@gmail.com
+🌐 Portfolio: GitHub | Kaggle | LinkedIn
+
 🔹 *📂 Featured Projects:*  
 🚀 [*Mosquito Detection Model*](https://github.com/MeghnaBiswal/mosquito-detection) - YOLO-based model for object detection.  
 📊 [*Data Analysis with Power BI*](https://github.com/MeghnaBiswal/powerbi-project) - Business insights using Power BI.  
