@@ -14,8 +14,8 @@
 ### 📬 Let's Connect!  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meghna.biswal01@gmail.com)    
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-blue?style=flat&logo=kaggle)](https://www.kaggle.com/meghnabiswal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghna-biswal/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/meghnabiswal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghna-biswal/)  
 
 
 🔹 *📂 Featured Projects:*  
