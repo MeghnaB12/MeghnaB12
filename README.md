@@ -11,7 +11,6 @@
 - Google Cloud | GitHub | SQL  
 
 🔹 *🌐 Find Me Online:*  
-[![YouTube](https://img.shields.io/badge/YouTube-bytegurl-red?style=flat&logo=youtube)](https://www.youtube.com/@bytegurl)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meghnabiswal)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/MeghnaBiswal)  
 
