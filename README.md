@@ -14,9 +14,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meghnabiswal)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/MeghnaBiswal)  
 
-📬 Let's Connect!
-📧 Email: meghna.biswal01@gmail.com
-🌐 Portfolio: GitHub | Kaggle | LinkedIn
+### 📬 Let's Connect!  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meghna.biswal01@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/MeghnaB12)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-blue?style=flat&logo=kaggle)](https://www.kaggle.com/meghnabiswal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghna-biswal/)  
+
 
 🔹 *📂 Featured Projects:*  
 🚀 [*Mosquito Detection Model*](https://github.com/MeghnaBiswal/mosquito-detection) - YOLO-based model for object detection.  
