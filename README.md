@@ -1,30 +1,30 @@
 ## Hi there 👋
 *About Me:*  
-- 🎓 Degree in *Physics and Data Science*  
-- 💡 Passionate about *AI, Deep Learning & Data Science*  
-- 📊 Learning *Power BI, SQL & Excel*  
-- 🎯 Participating in *IndicTTS Deepfake Challenge*  
+🎓 Data Science (IIT Madras) & Physics graduate (IISER Thiruvananthapuram)
 
-🔹 *📜 Skills:*  
-- Python | Deep Learning | YOLO | Computer Vision  
-- Data Science | Machine Learning | TensorFlow  
-- Google Cloud | GitHub | SQL  
+🎯 Turning Data into Impact
+
+
+## 🛠️ Technical Skills  
+
+### Languages  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)  
+
+### Technologies & Frameworks  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)  [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)  
+
+###  Big Data & Cloud  
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)  [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  [![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  [![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub--Sub-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/pubsub)  
+
+### Data Visualization & Analytics  
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  [![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  
+
 
 
 ### 📬 Let's Connect!  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meghna.biswal01@gmail.com)    
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/meghnabiswal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghna-biswal/)  
-<a href="mailto:meghna.biswal01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/meghnabiswal)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghna-biswal/)  
 
-
-🔹 *📂 Featured Projects:*  
-🚀 [*Mosquito Detection Model*](https://github.com/MeghnaBiswal/mosquito-detection) - YOLO-based model for object detection.  
-📊 [*Data Analysis with Power BI*](https://github.com/MeghnaBiswal/powerbi-project) - Business insights using Power BI.  
-🤖 [*AI Speech Deepfake Detection*](https://github.com/MeghnaBiswal/deepfake-audio) - Kaggle Challenge for detecting AI-generated speech.  
 
 🎯 *More projects on my [GitHub](https://github.com/MeghnaBiswal) 🚀*  
 
