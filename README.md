@@ -26,10 +26,10 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/meghnabiswal)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghna-biswal/)  
 
 
-🎯 *More projects on my [GitHub](https://github.com/MeghnaBiswal) 🚀*  
-
 ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeghnaB12&theme=dark)
 <!--
 **MeghnaB12/MeghnaB12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
