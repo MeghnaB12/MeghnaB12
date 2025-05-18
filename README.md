@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a BS-MS physics graduate with a passion for data science, machine learning, and web development.
+Physics and Data Science graduate from IIT Madras and IISER Thiruvananthapuram with practical expertise in machine learning, deep learning, and full-stack development. My technical toolkit includes Python, R, SQL, Machine Learning frameworks, and cloud services (GCP). I've built multiple end-to-end applications including library management systems, sales analytics platforms, and audio classification models.
+
+Looking to contribute my analytical mindset and technical skills to innovative projects in data science, machine learning, or software development. Open to connect with professionals in the tech industry for potential opportunities and knowledge exchange.
 
 ## 🛠️ Technical Skills  
 
