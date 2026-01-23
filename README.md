@@ -2,7 +2,7 @@
 
 I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapuram) bridging the gap between first-principles research and scalable AI systems. Currently, I am focused on building **Autonomous Agents**, **RAG Pipelines**, and **Physics-Informed Computer Vision** models.
 
-- 🔭 I’m currently building **Agentic RAG Systems using LangGraph & LangChain**
+- 🔭 I’m currently building **Agentic RAG Systems using LangChain Framework**
 - 🧠 I specialize in **Generative AI, Computer Vision, and MLOps**
 - 📫 How to reach me: **[meghna.biswal01@gmail.com](mailto:meghna.biswal01@gmail.com)**
 
