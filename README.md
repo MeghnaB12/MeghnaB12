@@ -1,6 +1,6 @@
 # Hi there, I'm Meghna Biswal! 👋
 
-### 🚀 AI Engineer | AI Research Lead | Physicist turned Data Scientist
+### 🚀 AI Engineer | Physicist turned Data Scientist
 
 I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapuram) bridging the gap between first-principles research and scalable AI systems. Currently, I am focused on building **Autonomous Agents**, **RAG Pipelines**, and **Physics-Informed Computer Vision** models.
 
