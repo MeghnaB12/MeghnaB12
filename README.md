@@ -13,7 +13,7 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
 **Generative AI & LLMs**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama_Index-121212?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langgraph-121212?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" />
