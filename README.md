@@ -81,7 +81,7 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
   <a href="https://www.kaggle.com/meghnabiswal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="mailto:meghna.biswal01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=meghna.biswal01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
