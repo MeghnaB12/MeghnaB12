@@ -1,56 +1,69 @@
 # Hi there, I'm Meghna Biswal! 👋
 
-### 🚀 AI Engineer | Research Lead | Physicist turned Data Scientist
+### 🚀 AI Engineer | AI Research Lead | Physicist turned Data Scientist
 
-I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapuram) with a unique ability to bridge first-principles thinking with modern AI/ML architectures. Currently working as an **AI Engineer**, I specialize in Computer Vision, Generative AI, and building end-to-end ML pipelines.
+I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapuram) bridging the gap between first-principles research and scalable AI systems. Currently, I am focused on building **Autonomous Agents**, **RAG Pipelines**, and **Physics-Informed Computer Vision** models.
 
-- 🔭 I’m currently working on **Generative AI & LLM-based Fact Checking**
-- 👯 I’m looking to collaborate on **Open Source Computer Vision Projects**
-- 💬 Ask me about **PyTorch, TensorFlow, Low-Light Enhancement, and Physics-Informed AI**
-- 📫 How to reach me: **[YourEmail@gmail.com](mailto:YourEmail@gmail.com)**
+- 🔭 I’m currently building **Agentic RAG Systems using LangGraph & Llama 3.3**
+- 🧠 I specialize in **Generative AI, Computer Vision, and MLOps**
+- 💬 Ask me about **LangChain, Vector Databases (Qdrant/Chroma), and Vision Transformers**
+- 📫 How to reach me: **[YourEmail@gmail.com](mailto:meghna.biswal01@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Generative AI & LLMs**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_Index-121212?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-**Deep Learning & AI**
+**Deep Learning & Vision**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 </p>
 
-**Data, Cloud & Big Data**
+**Data & Engineering**
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Generative AI & Agentic Systems
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Monocular Depth Estimation** | Predicting depth maps from single RGB images using **EfficientNetB0** and Transfer Learning. | `TensorFlow` `Keras` `Computer Vision` |
-| **Low-Light Enhancement** | Dual-stage **MRPNet + GAN** architecture for denoising and super-resolution of low-light images. | `PyTorch` `GANs` `Image Processing` |
-| **Mosquito Species Detection** | Real-time object detection pipeline using **YOLOv8** trained on high-res 1024px imagery. | `YOLOv8` `Ultralytics` `Deep Learning` |
-| **Student Dropout Prediction** | Predictive modeling using **XGBoost** to identify students at risk of dropping out. | `XGBoost` `Scikit-Learn` `Pandas` |
-| **Lava Pizza Analytics** | Comprehensive EDA and business intelligence dashboard for sales and expense tracking. | `Matplotlib` `Seaborn` `Data Analytics` |
+| **Agentic Financial Analyst** | Autonomous AI agent that audits SEC 10-K filings using **Router-based RAG** and benchmarking logic. | `Llama 3.3` `LangChain` `RAG` |
+| **Agentic Math Solver** | Intelligent solver utilizing **LangGraph** for dynamic routing between knowledge bases and web search. | `LangGraph` `Gemini` `Qdrant` |
+| **TrueCheck** | Local-first **Fact-Verification RAG** pipeline with privacy-focused architecture. | `Mistral` `ChromaDB` `spaCy` |
+| **Multilingual Sentiment** | Efficient fine-tuning of **LLaMA 3.1 8B** for multilingual text classification. | `PEFT/LoRA` `LLaMA` `NLP` |
+
+## 👁️ Computer Vision & Deep Learning
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Speech Deepfake Detection** | Audio Deepfake Detector utilizing **Mel Spectrograms** and **Vision Transformers (ViT)**. | `ViT` `Audio Processing` `PyTorch` |
+| **Low-Light Enhancement** | Dual-stage **MRPNet + GAN** pipeline for denoising and super-resolution. | `GANs` `Image Restoration` |
+| **Mosquito Species Detection** | SOTA object detection on high-res 1024px imagery using **YOLOv8**. | `YOLOv8` `Ultralytics` |
+| **Monocular Depth Estimation** | Depth map prediction from single RGB images using **EfficientNetB0**. | `Transfer Learning` `TensorFlow` |
+
+## 📊 Data Science & Analytics
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Ops Engagement Analytics** | Business intelligence dashboard for pizza sales and expense tracking. | `Pandas` `EDA` `Matplotlib` |
+| **Student Dropout Prediction** | Predictive modeling pipeline to identify at-risk students. | `XGBoost` `Scikit-Learn` |
 
 ---
 
