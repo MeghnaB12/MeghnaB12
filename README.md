@@ -7,7 +7,7 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
 - 🔭 I’m currently building **Agentic RAG Systems using LangGraph & Llama 3.3**
 - 🧠 I specialize in **Generative AI, Computer Vision, and MLOps**
 - 💬 Ask me about **LangChain, Vector Databases (Qdrant/Chroma), and Vision Transformers**
-- 📫 How to reach me: **[YourEmail@gmail.com](mailto:meghna.biswal01@gmail.com)**
+- 📫 How to reach me: **[meghna.biswal01@gmail.com](mailto:meghna.biswal01@gmail.com)**
 
 ---
 
