@@ -71,9 +71,7 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
   <img src="https://github-readme-stats.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeghnaB12&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
+
 
 ---
 
@@ -83,8 +81,5 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
   </a>
   <a href="https://www.kaggle.com/meghnabiswal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:YourEmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
