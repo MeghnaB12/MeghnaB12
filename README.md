@@ -2,7 +2,7 @@
 
 I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapuram) bridging the gap between first-principles research and scalable AI systems. Currently, I am focused on building **Autonomous Agents**, **RAG Pipelines**, and **Physics-Informed Computer Vision** models.
 
-- 🔭 I’m currently building **Agentic RAG Systems using LangGraph & Langchain**
+- 🔭 I’m currently building **Agentic RAG Systems using LangGraph & LangChain**
 - 🧠 I specialize in **Generative AI, Computer Vision, and MLOps**
 - 📫 How to reach me: **[meghna.biswal01@gmail.com](mailto:meghna.biswal01@gmail.com)**
 
@@ -13,7 +13,7 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
 **Generative AI & LLMs**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langgraph-121212?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" />
@@ -80,5 +80,8 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
   </a>
   <a href="https://www.kaggle.com/meghnabiswal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:meghna.biswal01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
