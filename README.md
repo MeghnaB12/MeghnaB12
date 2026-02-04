@@ -1,6 +1,6 @@
 # Hi there, I'm Meghna Biswal! 👋
 
-I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapuram) bridging the gap between first-principles research and scalable AI systems. Currently, I am focused on building **Autonomous Agents**, **RAG Pipelines**, and **Physics-Informed Computer Vision** models.
+I am a **Physics and Data Science graduate** bridging the gap between first-principles research and scalable AI systems. Currently, I am focused on building **Autonomous Agents**, **RAG Pipelines**, and **Physics-Informed Computer Vision** models.
 
 - 🧠 I specialize in **Generative AI, Computer Vision, and MLOps**
 - 📫 How to reach me: **[meghna.biswal01@gmail.com](mailto:meghna.biswal01@gmail.com)**
@@ -65,9 +65,13 @@ I am a **Physics and Data Science graduate** (IIT Madras & IISER Thiruvananthapu
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 
