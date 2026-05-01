@@ -21,13 +21,13 @@ As an **AI Engineer** with a dual background in **Physics** and **Data Science**
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Physics-Research-Agent](#)** | Multi-Modal RAG Agent that ingests dense scientific literature and autonomously solves embedded physics equations. | `Gemini 1.5 Flash`, `FAISS`, `SymPy` |
-| **[Unified-Broker](#)** | Real-time financial data layer connecting Zerodha and IBKR. Features live WebSocket orchestration via Claude Code and an AI layer for risk/anomaly detection. | `Python`, `WebSockets`, `Claude Code` |
+| **[Physics-Research-Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multi-Modal RAG Agent that ingests dense scientific literature and autonomously solves embedded physics equations. | `Gemini 1.5 Flash`, `FAISS`, `SymPy` |
+| **[Unified-Broker](https://github.com/MeghnaB12/unified-broker)** | Real-time financial data layer connecting Zerodha and IBKR. Features live WebSocket orchestration via Claude Code and an AI layer for risk/anomaly detection. | `Python`, `WebSockets`, `Claude Code` |
 | **[Indieshots](#)** | AI platform automating film pre-production storyboards and logistical scheduling using NLP-driven scene parsing. | `NLP`, `Generative AI`, `Python` |
-| **[Agentic Financial Analyst](#)** | Autonomous AI agent auditing SEC 10-K filings using Router-based RAG and dynamic benchmarking logic. | `Llama 3.3`, `LangChain`, `RAG` |
-| **[Agentic-Math-Solver](#)** | Self-correcting reasoning engine utilizing dynamic routing between vector knowledge bases and web search. | `LangGraph`, `Gemini`, `Qdrant` |
-| **[TrueCheck](#)** | Engineered a local-first RAG pipeline for automated fact verification, featuring a privacy-focused architecture. | `Mistral`, `ChromaDB`, `spaCy` |
-| **[NewsPostGen](#)** | AI-powered API that scrapes recent news and auto-generates curated content. | `FastAPI`, `LangChain`, `Gemini` |
+| **[Agentic Financial Analyst](https://github.com/MeghnaB12/agentic-financial-analyst)** | Autonomous AI agent auditing SEC 10-K filings using Router-based RAG and dynamic benchmarking logic. | `Llama 3.3`, `LangChain`, `RAG` |
+| **[Agentic-Math-Solver](https://github.com/MeghnaB12/Agentic-Math-Solver)** | Self-correcting reasoning engine utilizing dynamic routing between vector knowledge bases and web search. | `LangGraph`, `Gemini`, `Qdrant` |
+| **[TrueCheck](https://github.com/MeghnaB12/TrueCheck)** | Engineered a local-first RAG pipeline for automated fact verification, featuring a privacy-focused architecture. | `Mistral`, `ChromaDB`, `spaCy` |
+| **[NewsPostGen](https://github.com/MeghnaB12/NewsPostGen)** | AI-powered API that scrapes recent news and auto-generates curated content. | `FastAPI`, `LangChain`, `Gemini` |
 
 ---
 
@@ -35,10 +35,10 @@ As an **AI Engineer** with a dual background in **Physics** and **Data Science**
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Speech-Deepfake-Detection](#)** | Tackled synthetic media by treating audio as images, building a multimodal pipeline to analyze Mel Spectrograms. | `ViT`, `PyTorch`, `Librosa` |
-| **[Lowlight-SR](#)** | Dual-stage deep learning pipeline combining a custom Denoiser (MRPNet) and Super-Resolution Generator. | `Deep Learning`, `MRPNet` |
-| **[Depth-Estimation-Lowlight](#)** | Efficient Monocular Depth Estimation pipeline implementing a custom dense regression head and Gaussian post-processing. | `EfficientNetB0`, `Transfer Learning` |
-| **[Flora-Fauna-Image-Classifier](#)** | High-performance image classification architecture built for complex natural environments. | `PyTorch`, `ViT-Huge` |
+| **[Speech-Deepfake-Detection](https://github.com/MeghnaB12/speech-deepfake-detection)** | Tackled synthetic media by treating audio as images, building a multimodal pipeline to analyze Mel Spectrograms. | `ViT`, `PyTorch`, `Librosa` |
+| **[Lowlight-SR](https://github.com/MeghnaB12/lowlight-sr)** | Dual-stage deep learning pipeline combining a custom Denoiser (MRPNet) and Super-Resolution Generator. | `Deep Learning`, `MRPNet` |
+| **[Depth-Estimation-Lowlight](https://github.com/MeghnaB12/depth-estimation-lowlight)** | Efficient Monocular Depth Estimation pipeline implementing a custom dense regression head and Gaussian post-processing. | `EfficientNetB0`, `Transfer Learning` |
+| **[Flora-Fauna-Image-Classifier](https://github.com/MeghnaB12/flora-fauna-image-classifier)** | High-performance image classification architecture built for complex natural environments. | `PyTorch`, `ViT-Huge` |
 
 ---
 
