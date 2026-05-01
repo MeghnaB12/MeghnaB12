@@ -43,4 +43,26 @@ As an **AI Engineer** with a dual background in **Physics** and **Data Science**
 ---
 
 ### 📈 GitHub Stats
-*(Keep your existing GitHub stats cards/widgets here)*
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/meghna-biswal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/meghnabiswal" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=meghna.biswal01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
