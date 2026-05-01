@@ -11,10 +11,11 @@ As an **AI Engineer** with a dual background in **Physics** and **Data Science**
 ---
 
 ### 🛠️ Tech Stack
-* **Generative AI:** LangGraph, LangChain, Claude Code, Gemini 1.5/2.5 Flash, Llama 3, Mistral
-* **Computer Vision:** Vision Transformers (ViT-Huge), PyTorch, YOLOv8, EfficientNet
-* **Infrastructure & Data:** FastAPI, WebSockets, GCP, Docker, Qdrant, ChromaDB, FAISS
-
+* **Generative AI & Models:** Gemini 1.5/2.5 Flash, Llama 3.3, Mistral, Claude Code
+* **AI Frameworks:** LangGraph, LangChain, PyTorch, TensorFlow
+* **Web & Full-Stack:** React, Next.js, Node.js, FastAPI, Streamlit
+* **Computer Vision:** Vision Transformers (ViT-Huge), YOLOv8, EfficientNet
+* **Infrastructure & Data:** GCP, Docker, WebSockets, Qdrant, ChromaDB, FAISS
 ---
 
 ### 🤖 Generative AI & Agentic Systems
