@@ -65,7 +65,7 @@ As an **AI Engineer** with a dual background in **Physics** and **Data Science**
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=meghna.biswal01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div> --> -->
+</div> --> 
 
 <h1 align="center">Hi there, I'm Meghna Biswal! 👋</h1>
  
@@ -74,8 +74,7 @@ As an **AI Engineer** with a dual background in **Physics** and **Data Science**
 I'm a **Full-Stack AI Engineer** with ~1 year of professional experience shipping production AI systems, and a dual academic background in **Physics** and **Data Science**. I work across the whole stack — designing the data layer and APIs, wiring up LLM and agentic pipelines, and building the React / React Native front ends that put them in users' hands. Currently building a **B2B AI SaaS platform** for the fashion industry.
  
 📫 **Contact:** meghna.biswal01@gmail.com
- 
-> *Tip for Meghna: add your employer name here if you'd like — e.g. "Full-Stack AI Engineer @ MSC AI."*
+
  
 ---
  
