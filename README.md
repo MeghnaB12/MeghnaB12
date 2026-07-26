@@ -1,6 +1,6 @@
-# Hi there, I'm Meghna Biswal! 👋
+<h1>Hi there, I'm Meghna Biswal! 👋</h1>
 
-### Full-Stack AI Engineer: I build AI products end to end, from the model to the UI.
+<h3>Full-Stack AI Engineer: I build AI products end to end, from the model to the UI.</h3>
 
 *"Compulsively curious, relentlessly building."*
 
@@ -10,7 +10,7 @@ I'm a **Full-Stack AI Engineer** with ~1 year of professional experience shippin
 
 ---
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 - **Languages:** Python, TypeScript, JavaScript
 - **Frontend:** React, React Native (Expo), Next.js, Streamlit
@@ -21,7 +21,7 @@ I'm a **Full-Stack AI Engineer** with ~1 year of professional experience shippin
 
 ---
 
-### 🚀 AI Applications & Products
+<h3>🚀 AI Applications & Products</h3>
 
 <!--
 When your full-stack showcase repo is live, add it as the FIRST row below and add a "Live Demo" link.
@@ -38,7 +38,7 @@ Example row:
 
 ---
 
-### 🤖 Agentic & LLM Systems
+<h3>🤖 Agentic & LLM Systems</h3>
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Example row:
 
 ---
 
-### 👁️ Computer Vision & Deep Learning
+<h3>👁️ Computer Vision & Deep Learning</h3>
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
@@ -61,7 +61,7 @@ Example row:
 
 ---
 
-### 📈 GitHub Stats
+<h3>📈 GitHub Stats</h3>
 
 ![stats graph](https://github-readme-stats-eight-theta.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true)
 ![languages graph](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true)
