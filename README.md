@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Meghna Biswal! 👋</h1>
+**Hi there, I'm Meghna Biswal! 👋**
 
-<h3>Full-Stack AI Engineer: I build AI products end to end, from the model to the UI.</h3>
+**Full-Stack AI Engineer: I build AI products end to end, from the model to the UI.**
 
 *"Compulsively curious, relentlessly building."*
 
@@ -10,7 +10,7 @@ I'm a **Full-Stack AI Engineer** with ~1 year of professional experience shippin
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+**🛠️ Tech Stack**
 
 - **Languages:** Python, TypeScript, JavaScript
 - **Frontend:** React, React Native (Expo), Next.js, Streamlit
@@ -21,11 +21,10 @@ I'm a **Full-Stack AI Engineer** with ~1 year of professional experience shippin
 
 ---
 
-<h3>🚀 AI Applications & Products</h3>
+**🚀 AI Applications & Products**
 
 <!--
-When your full-stack showcase repo is live, add it as the FIRST row below and add a "Live Demo" link.
-Once it's here, you can rename this section back to "Full-Stack AI Applications."
+When your full-stack showcase repo is live, add it as the FIRST row below with a "Live Demo" link.
 Example row:
 | **[App Name](LIVE_URL)** | [What it does in one line]. Full frontend + API + AI, deployed live. | `React`, `FastAPI`, `Gemini`, `Supabase` |
 -->
@@ -38,7 +37,7 @@ Example row:
 
 ---
 
-<h3>🤖 Agentic & LLM Systems</h3>
+**🤖 Agentic & LLM Systems**
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
@@ -50,7 +49,7 @@ Example row:
 
 ---
 
-<h3>👁️ Computer Vision & Deep Learning</h3>
+**👁️ Computer Vision & Deep Learning**
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
@@ -61,7 +60,7 @@ Example row:
 
 ---
 
-<h3>📈 GitHub Stats</h3>
+**📈 GitHub Stats**
 
 ![stats graph](https://github-readme-stats-eight-theta.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true)
 ![languages graph](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true)
