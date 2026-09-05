@@ -6,6 +6,7 @@ Small recruiter-facing cleanup items intentionally deferred until the final GitH
 - [ ] Re-check GitHub profile bio for concise Full-Stack AI positioning.
 - [ ] Re-check company/education/location/website fields for consistency with resume and LinkedIn.
 - [ ] Confirm LinkedIn and portfolio links still work.
+- [ ] Re-check every numeric claim in the profile README against the final repos (for example, `ragval` was originally described as having 32 tests but currently has 72 Python tests in CI; use the final Week 10 count rather than a stale number).
 
 ## Pinned repositories
 - [ ] Re-evaluate final six pins after Weeks 2–9.
