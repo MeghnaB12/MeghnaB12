@@ -24,18 +24,25 @@ I have about a year of experience building production AI systems, with a backgro
 | --- | --- | --- |
 | **[ragval](https://github.com/MeghnaB12/ragval)** · [Live dashboard](https://ragval.vercel.app) | Statistically rigorous RAG evaluation with bootstrap confidence intervals, paired significance tests, judge calibration, a **FastAPI + React** dashboard, **32 tests**, CI, and a HotpotQA-500 benchmark. | `Python` `FastAPI` `React` `Pytest` `LLM Evaluation` |
 | **[Unified Broker](https://github.com/MeghnaB12/unified-broker)** | Multi-broker data layer connecting Zerodha and IBKR with live WebSockets, reconnect logic, INR/USD normalization, portfolio aggregation, and Claude-powered risk/anomaly analysis. | `Python` `WebSockets` `Streamlit` `Claude` |
-| **[python-ai-service-template](https://github.com/MeghnaB12/python-ai-service-template)** | Production-oriented FastAPI starter with app-factory architecture, dependency injection, typed settings, strict mypy, Ruff, pytest, Docker, and GitHub Actions. | `FastAPI` `Docker` `GitHub Actions` `Pytest` `mypy` |
-| **[sqlsmith](https://github.com/MeghnaB12/sqlsmith)** | Natural-language-to-SQL service with AST-based read-only validation and a per-request DuckDB sandbox. Active build toward execution-accuracy eval-gated CI and a frontend. | `FastAPI` `sqlglot` `DuckDB` `AI Safety` |
+| **[Physics Research Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multimodal RAG for scientific papers with equation-aware processing and deterministic symbolic computation for supported expressions. | `Gemini` `FAISS` `SymPy` `RAG` |
 
 > **Current focus:** turning AI prototypes into reliable products with measurable quality, explicit failure handling, and production-ready software-engineering practices.
 
-## 🧠 AI Systems
+## 🤖 Agentic & LLM Systems
 
 | Project | Engineering focus | Stack |
 | --- | --- | --- |
-| **[Physics Research Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multimodal RAG for scientific papers with equation-aware processing and deterministic symbolic computation for supported expressions. | `Gemini` `FAISS` `SymPy` `RAG` |
 | **[Agentic Financial Analyst](https://github.com/MeghnaB12/agentic-financial-analyst)** | SEC 10-K analysis agent using router-based RAG and dynamic financial benchmarking. | `Llama 3.3` `LangChain` `RAG` |
 | **[Agentic Math Solver](https://github.com/MeghnaB12/Agentic-Math-Solver)** | Self-correcting solver that routes between a vector knowledge base and web search with safety guardrails. | `LangGraph` `Gemini` `Qdrant` |
+| **[NewsPostGen](https://github.com/MeghnaB12/NewsPostGen)** | FastAPI service that pulls recent news and drafts LinkedIn-ready posts through an LLM pipeline. | `FastAPI` `LangChain` `Gemini` |
+
+## 🧰 Engineering Utilities
+
+- **[python-ai-service-template](https://github.com/MeghnaB12/python-ai-service-template)** — reusable FastAPI AI-service starter with app-factory architecture, dependency injection, typed settings, strict mypy, Ruff, pytest, Docker, and GitHub Actions.
+
+## 🚧 Building Now
+
+- **[sqlsmith](https://github.com/MeghnaB12/sqlsmith)** — natural-language-to-SQL service with AST-based read-only validation and a per-request DuckDB sandbox. Next: execution-accuracy evals, eval-gated CI, observability, and a frontend.
 
 ## 🛠️ Engineering Stack
 
