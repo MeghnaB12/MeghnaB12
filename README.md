@@ -1,10 +1,12 @@
 <div align="center">
 
-**Meghna Biswal**
+# Meghna Biswal
 
-**Full-Stack AI Engineer**
+### Full-Stack AI Engineer
 
-**I build and ship AI products end to end.**
+**I build, evaluate, and ship AI products end to end.**
+
+`React / Next.js` → `FastAPI / Node.js` → `PostgreSQL` → `RAG / Agents` → `Docker / GCP`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghna-biswal)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/meghnabiswal)
@@ -14,73 +16,53 @@
 
 ---
 
-I have about a year of experience building production AI systems, with a background in Physics and Data Science.
+I have about a year of experience building production AI systems, with a background in **Physics and Data Science**. I focus on the engineering around AI — APIs, data flows, evaluation, safety, testing, and deployment — not just model calls.
 
-**⭐ Flagship: ragval**
+## ⭐ Featured Engineering
 
-[ragval](https://github.com/MeghnaB12/ragval) is a RAG evaluation framework focused on statistical rigor. It uses bootstrap confidence intervals, paired significance tests, and judge calibration, so you can measure whether one RAG setup is actually better than another instead of eyeballing it. 32 tests, CI passing.
-
-`Python` · `Pytest` · `LLM-as-Judge` · [View repo →](https://github.com/MeghnaB12/ragval)
-
----
-
-**🛠️ Tech Stack**
-
-- **Languages:** Python, TypeScript, JavaScript
-- **Frontend:** React, React Native (Expo), Next.js, Streamlit
-- **Backend & APIs:** FastAPI, Node.js, Hono, REST, WebSockets
-- **AI / Agents:** LangGraph, LangChain, Vercel AI SDK, PyTorch, TensorFlow
-- **Models:** Claude, Gemini 2.5 Flash, Llama 3.3, Mistral
-- **Data & Infra:** Supabase / PostgreSQL, GCP, Docker, Qdrant, ChromaDB, FAISS
-
----
-
-**🚀 AI Applications & Products**
-
-<!--
-When your full-stack showcase repo is live, add it here as the FIRST row with a "Live Demo" link.
-| **[App Name](LIVE_URL)** | [One-line what it does]. Full frontend + API + AI, deployed live. | `React`, `FastAPI`, `Gemini`, `Supabase` |
--->
-
-| Project | Description | Tech Stack |
+| Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| **[Unified-Broker](https://github.com/MeghnaB12/unified-broker)** | Trading dashboard that connects Zerodha (India) and IBKR (US) equities in one view, with live WebSocket ticks, INR/USD normalization, and an AI layer for risk reporting and anomaly detection. | `Python`, `WebSockets`, `AI` |
-| **[NewsPostGen](https://github.com/MeghnaB12/NewsPostGen)** | FastAPI service that pulls recent news and drafts LinkedIn-ready posts through an LLM pipeline. | `FastAPI`, `LangChain`, `Gemini` |
-| **[Physics-Research-Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multi-modal RAG agent that reads research papers and solves the physics equations embedded in them. | `Gemini 2.5 Flash`, `FAISS`, `SymPy` |
+| **[ragval](https://github.com/MeghnaB12/ragval)** · [Live dashboard](https://ragval.vercel.app) | Statistically rigorous RAG evaluation with bootstrap confidence intervals, paired significance tests, judge calibration, a **FastAPI + React** dashboard, **32 tests**, CI, and a HotpotQA-500 benchmark. | `Python` `FastAPI` `React` `Pytest` `LLM Evaluation` |
+| **[Unified Broker](https://github.com/MeghnaB12/unified-broker)** | Multi-broker data layer connecting Zerodha and IBKR with live WebSockets, reconnect logic, INR/USD normalization, portfolio aggregation, and Claude-powered risk/anomaly analysis. | `Python` `WebSockets` `Streamlit` `Claude` |
+| **[Physics Research Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multimodal RAG for scientific papers with equation-aware processing and deterministic symbolic computation for supported expressions. | `Gemini` `FAISS` `SymPy` `RAG` |
 
----
+> **Current focus:** turning AI prototypes into reliable products with measurable quality, explicit failure handling, and production-ready software-engineering practices.
 
-**🤖 Agentic & LLM Systems**
+## 🤖 Agentic & LLM Systems
 
-| Project | Description | Tech Stack |
+| Project | Engineering focus | Stack |
 | --- | --- | --- |
-| **[Agentic Financial Analyst](https://github.com/MeghnaB12/agentic-financial-analyst)** | Agent that audits SEC 10-K filings using router-based RAG and dynamic benchmarking. | `Llama 3.3`, `LangChain`, `RAG` |
-| **[Agentic-Math-Solver](https://github.com/MeghnaB12/Agentic-Math-Solver)** | Self-correcting solver that routes between a vector knowledge base and web search, with safety guardrails. | `LangGraph`, `Gemini`, `Qdrant` |
-| **[TrueCheck](https://github.com/MeghnaB12/TrueCheck)** | Local-first RAG pipeline for fact verification, with a privacy-focused design. | `Mistral`, `ChromaDB`, `spaCy` |
-| **[Multilingual-Sentiment-Analysis](https://github.com/MeghnaB12/multilingual-sentiment-analysis)** | QLoRA fine-tuning of LLaMA 3.1 8B with 4-bit quantization for low-memory training on consumer GPUs. | `LLaMA 3.1`, `Unsloth`, `QLoRA` |
+| **[Agentic Financial Analyst](https://github.com/MeghnaB12/agentic-financial-analyst)** | SEC 10-K analysis agent using router-based RAG and dynamic financial benchmarking. | `Llama 3.3` `LangChain` `RAG` |
+| **[Agentic Math Solver](https://github.com/MeghnaB12/Agentic-Math-Solver)** | Self-correcting solver that routes between a vector knowledge base and web search with safety guardrails. | `LangGraph` `Gemini` `Qdrant` |
+| **[NewsPostGen](https://github.com/MeghnaB12/NewsPostGen)** | FastAPI service that pulls recent news and drafts LinkedIn-ready posts through an LLM pipeline. | `FastAPI` `LangChain` `Gemini` |
+
+## 🧰 Engineering Utilities
+
+- **[python-ai-service-template](https://github.com/MeghnaB12/python-ai-service-template)** — reusable FastAPI AI-service starter with app-factory architecture, dependency injection, typed settings, strict mypy, Ruff, pytest, Docker, and GitHub Actions.
+
+## 🚧 Building Now
+
+- **[sqlsmith](https://github.com/MeghnaB12/sqlsmith)** — natural-language-to-SQL service with AST-based read-only validation and a per-request DuckDB sandbox. Next: execution-accuracy evals, eval-gated CI, observability, and a frontend.
+
+## 🛠️ Engineering Stack
+
+- **Frontend:** React, Next.js, TypeScript, React Native (Expo)
+- **Backend & APIs:** Python, FastAPI, Node.js, Hono, REST, WebSockets
+- **Data:** PostgreSQL / Supabase, SQLite, DuckDB, Qdrant, FAISS, ChromaDB
+- **AI / Agents:** LangGraph, LangChain, RAG, LLM evaluation, PyTorch, TensorFlow
+- **Quality:** Pytest, Ruff, mypy, GitHub Actions, CI/CD
+- **Infrastructure:** Docker, GCP, Vercel
 
 <details>
-<summary><b>👁️ More projects: Computer Vision & Deep Learning</b></summary>
+<summary><b>Earlier ML & research projects</b></summary>
 
 <br>
 
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| **[Speech-Deepfake-Detection](https://github.com/MeghnaB12/speech-deepfake-detection)** | Audio deepfake detector that turns clips into Mel spectrograms and classifies them with a Vision Transformer. | `ViT`, `PyTorch`, `Librosa` |
-| **[Lowlight-SR](https://github.com/MeghnaB12/lowlight-sr)** | Two-stage pipeline pairing a custom denoiser (MRPNet) with a super-resolution generator to restore noisy low-light images. | `Deep Learning`, `MRPNet` |
-| **[Depth-Estimation-Lowlight](https://github.com/MeghnaB12/depth-estimation-lowlight)** | Monocular depth estimation with a custom dense regression head and Gaussian post-processing. | `EfficientNetB0`, `Transfer Learning` |
-| **[Flora-Fauna-Image-Classifier](https://github.com/MeghnaB12/flora-fauna-image-classifier)** | Image classifier for flora and fauna species. | `PyTorch`, `ViT-Huge` |
+| **[Multilingual Sentiment Analysis](https://github.com/MeghnaB12/multilingual-sentiment-analysis)** | QLoRA fine-tuning of LLaMA 3.1 8B with 4-bit quantization for low-memory training. | `LLaMA 3.1` `Unsloth` `QLoRA` |
+| **[Speech Deepfake Detection](https://github.com/MeghnaB12/speech-deepfake-detection)** | Audio deepfake detection using Mel spectrograms and a Vision Transformer. | `ViT` `PyTorch` `Librosa` |
+| **[Lowlight SR](https://github.com/MeghnaB12/lowlight-sr)** | Two-stage low-light restoration pipeline combining denoising and super-resolution. | `Deep Learning` `MRPNet` |
+| **[Depth Estimation Lowlight](https://github.com/MeghnaB12/depth-estimation-lowlight)** | Monocular depth estimation with a custom dense regression head. | `EfficientNetB0` `Transfer Learning` |
 
 </details>
-
----
-
-**📊 GitHub Stats**
-
-<div align="center">
-
-![Meghna's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MeghnaB12&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeghnaB12&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8)
-
-</div>
