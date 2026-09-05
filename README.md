@@ -23,8 +23,8 @@ I have about a year of experience building production AI systems, with a backgro
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | **[ragval](https://github.com/MeghnaB12/ragval)** · [Live dashboard](https://ragval.vercel.app) | Statistically rigorous RAG evaluation with bootstrap confidence intervals, paired significance tests, judge calibration, a **FastAPI + React** dashboard, **32 tests**, CI, and a HotpotQA-500 benchmark. | `Python` `FastAPI` `React` `Pytest` `LLM Evaluation` |
+| **[Agentic Math Solver](https://github.com/MeghnaB12/Agentic-Math-Solver)** | Full-stack agentic RAG application with **React + FastAPI**, LangGraph routing, Qdrant retrieval, Tavily web search, safety guardrails, and human-in-the-loop feedback. | `React` `FastAPI` `LangGraph` `Qdrant` `Docker` |
 | **[Unified Broker](https://github.com/MeghnaB12/unified-broker)** | Multi-broker data layer connecting Zerodha and IBKR with live WebSockets, reconnect logic, INR/USD normalization, portfolio aggregation, and Claude-powered risk/anomaly analysis. | `Python` `WebSockets` `Streamlit` `Claude` |
-| **[Physics Research Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multimodal RAG for scientific papers with equation-aware processing and deterministic symbolic computation for supported expressions. | `Gemini` `FAISS` `SymPy` `RAG` |
 
 > **Current focus:** turning AI prototypes into reliable products with measurable quality, explicit failure handling, and production-ready software-engineering practices.
 
@@ -32,9 +32,9 @@ I have about a year of experience building production AI systems, with a backgro
 
 | Project | Engineering focus | Stack |
 | --- | --- | --- |
-| **[Agentic Financial Analyst](https://github.com/MeghnaB12/agentic-financial-analyst)** | SEC 10-K analysis agent using router-based RAG and dynamic financial benchmarking. | `Llama 3.3` `LangChain` `RAG` |
-| **[Agentic Math Solver](https://github.com/MeghnaB12/Agentic-Math-Solver)** | Self-correcting solver that routes between a vector knowledge base and web search with safety guardrails. | `LangGraph` `Gemini` `Qdrant` |
-| **[NewsPostGen](https://github.com/MeghnaB12/NewsPostGen)** | FastAPI service that pulls recent news and drafts LinkedIn-ready posts through an LLM pipeline. | `FastAPI` `LangChain` `Gemini` |
+| **[Physics Research Agent](https://github.com/MeghnaB12/physics-research-agent)** | Multimodal RAG for scientific papers with equation-aware processing, citation-backed retrieval, and deterministic symbolic computation for supported expressions. | `Gemini` `FAISS` `SymPy` `RAG` |
+| **[Agentic Financial Analyst](https://github.com/MeghnaB12/agentic-financial-analyst)** | SEC 10-K analysis agent using router-based RAG, live web verification, observability logs, and financial benchmarking. | `Llama 3.3` `LangChain` `RAG` |
+| **[NewsPostGen](https://github.com/MeghnaB12/NewsPostGen)** | Deployed FastAPI service that pulls recent news and drafts LinkedIn-ready posts through a LangChain + Gemini pipeline. | `FastAPI` `LangChain` `Gemini` `Render` |
 
 ## 🧰 Engineering Utilities
 
